@@ -1,0 +1,6 @@
+["How does Rust async work"]
+url = " http://aidancully.blogspot.com/2022/08/how-does-rust-async-work.html"
+description = "Aiden Cully's blogpost explores how Rust `async/await` infrastructure works at the machine-code level"
+tags = ["async", "languages"]
+date_added = 2024-07-04
+date_last_accessed = 2024-07-04
